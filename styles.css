@@ -236,7 +236,7 @@ a {
 }
 .news-article .date:before {
     display: inline-block;
-    content: url('../images/calendar-icon.png');
+    content: url('images/calendar-icon.png');
     transform: translateY(20%);
     margin-right: 20px;
 }
