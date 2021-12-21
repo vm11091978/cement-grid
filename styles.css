@@ -61,7 +61,7 @@ a {
 /* Стили для шапки */
 .header {
     background-color: gray;
-    background-image: url('../images/banner.jpg');
+    background-image: url('images/banner.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -237,7 +237,7 @@ a {
 }
 .news-article .date:before {
     display: inline-block;
-    content: url('../images/calendar-icon.png');
+    content: url('images/calendar-icon.png');
     transform: translateY(20%);
     margin-right: 20px;
 }
